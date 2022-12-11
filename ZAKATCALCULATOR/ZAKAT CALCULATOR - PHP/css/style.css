@@ -1,0 +1,48 @@
+body {
+	font-family: Arial Bold, "Helvetica Neue", Helvetica, sans-serif;
+}	 
+ 
+.content h1{
+	height: 40px;
+    width: 550px;
+	background-color: midnightblue;
+    color: #fff;
+	text-align: center;
+}   
+.content h2{
+    text-align: center;
+    background-color: lightblue;
+}
+
+.content {
+    border: 2px solid darkblue;
+    width: 550px;
+    padding: 10px 20px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#calculate {
+	font-size: 15px;
+	width: 100px;
+    padding: 5px;
+    margin: 5px 0;
+    text-align: center;
+	background-color: lightgrey;
+	border-style: outset;
+	border-radius: 5px
+}
+
+#summary {
+    background-color: lightblue;
+    width: 99%;
+    padding: 2px;
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+#summary p {
+    padding: 1px;
+    margin: 5px 5px;
+}
